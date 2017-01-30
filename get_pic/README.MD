@@ -7,5 +7,5 @@ To buid:
 To run:
 	./get_pic
 
-Sample output image:
+Sample output image:<br/>
 ![img](img.jpg)
