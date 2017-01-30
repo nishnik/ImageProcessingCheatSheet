@@ -6,3 +6,6 @@ To buid:
 
 To run:
 	./get_pic
+
+Sample output image:
+![img](img.jpg)
