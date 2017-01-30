@@ -10,3 +10,6 @@ To buid:
 
 To run:
 	./color_range
+
+Sample screenshot:<br/>
+![img](color_range_snap.png)
