@@ -1,0 +1,10 @@
+#pragma once
+#include <iostream>
+#include <stack>
+#include "opencv2/highgui/highgui.hpp"
+#include "opencv2/imgproc/imgproc.hpp"
+#include <utility>
+using namespace cv;
+using namespace std;
+typedef const Mat& cMref;
+typedef Mat& Mref;
